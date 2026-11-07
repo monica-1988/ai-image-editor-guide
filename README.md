@@ -6,8 +6,9 @@ An original static guide to preparing and reviewing edits with the
 Open `index.html` in a browser. No build, scripts, analytics, external fonts,
 or dependencies are required.
 
-GitHub Pages deployment is a separate step.
-No public Pages URL is claimed here.
+Published guide: [Plan and Review AI Image Edits](https://monica-1988.github.io/ai-image-editor-guide/).
+
+GitHub Pages serves the root of the `dev` branch.
 
 ## License
 
