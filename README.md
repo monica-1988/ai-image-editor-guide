@@ -6,7 +6,7 @@ An original static guide to preparing and reviewing edits with the
 Open `index.html` in a browser. No build, scripts, analytics, external fonts,
 or dependencies are required.
 
-GitHub Pages deployment is a separate step after repository publication.
+GitHub Pages deployment is a separate step.
 No public Pages URL is claimed here.
 
 ## License
